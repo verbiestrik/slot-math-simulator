@@ -30,4 +30,9 @@ Install pytest if necessary and run:
 ```bash
 python -m pytest -q
 ```
+
+## Development approach
+
+This project was developed iteratively with AI assistance (ChatGPT), which supported the initial implementation, code refinement, input validation, test development and documentation. The project is also a learning exercise in slot game mathematics, probability theory and Python software development. The implementation and mathematical results are being reviewed and independently validated.
+
 **Important limitation**: this is an educational simulator, not a commercial game. Python's `random` module is not a certified gaming RNG, and the program does not implement regulatory, security, responsible-gaming or production requirements.
