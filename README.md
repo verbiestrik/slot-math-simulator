@@ -1,5 +1,5 @@
 # Educational 5x3 Slot Game Mathematics
-A small Python project that demonstrates how reel strips, paylines and a paytable determine the mathematical behaviour of a simple slot game.
+A small AI-assisted Python project that demonstrates how reel strips, paylines and a paytable determine the mathematical behaviour of a simple slot game.
 
 ## Game rules
 - Five circular reels, each with 12 stop positions and with three visible symbols per reel. There are six regular symbols: `A`, `K`, `Q`, `J`, `10`, and `9`.
