@@ -23,7 +23,7 @@ The program first enumerates every possible combination of reel stops to calcula
 ## Metrics
 - RTP: expected total payout, expressed as a percentage.
 - Hit frequency: percentage of spins that produce at least one positive payline payout.
-- Volatility measure: standard deviation of the payout divided by the total bet, measured in multiples of the bet.
+- Volatility measure: standard deviation of the payout divided by the number of credits per spin, measured in multiples of the bet.
 
 ## Tests
 Install pytest if necessary and run:
